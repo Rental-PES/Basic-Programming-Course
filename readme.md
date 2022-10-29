@@ -5,6 +5,7 @@ Isi dari path basic programming course bakal ada 4
 3. Cara belajar : Isinya cara belajar yang disarankan
 ---
 ## List Video Dasar Pemrograman:
+Bisa kamu pilih salah satunya aja, tapi harus konsisten diselesaikan
 1. [C++ Dasar (video 1-57)](https://www.youtube.com/watch?v=b2N3_dA8VBU&list=PLZS-MHyEIRo4Ze0bbGB1WKBSNMPzi-eWI&index=62)
 2. [Java Dasar (sampai selesai)](https://www.youtube.com/watch?v=jiUxHm9l1KY)
 ---
